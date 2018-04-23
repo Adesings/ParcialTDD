@@ -1,0 +1,9 @@
+c:\users\hites\documents\visual studio 2017\Projects\Parcial2TDD\Parcial2TDD\bin\Debug\Parcial2TDD.exe.config
+c:\users\hites\documents\visual studio 2017\Projects\Parcial2TDD\Parcial2TDD\bin\Debug\Parcial2TDD.exe
+c:\users\hites\documents\visual studio 2017\Projects\Parcial2TDD\Parcial2TDD\bin\Debug\Parcial2TDD.pdb
+c:\users\hites\documents\visual studio 2017\Projects\Parcial2TDD\Parcial2TDD\obj\Debug\Parcial2TDD.Form1.resources
+c:\users\hites\documents\visual studio 2017\Projects\Parcial2TDD\Parcial2TDD\obj\Debug\Parcial2TDD.Properties.Resources.resources
+c:\users\hites\documents\visual studio 2017\Projects\Parcial2TDD\Parcial2TDD\obj\Debug\Parcial2TDD.csproj.GenerateResource.Cache
+c:\users\hites\documents\visual studio 2017\Projects\Parcial2TDD\Parcial2TDD\obj\Debug\Parcial2TDD.csproj.CoreCompileInputs.cache
+c:\users\hites\documents\visual studio 2017\Projects\Parcial2TDD\Parcial2TDD\obj\Debug\Parcial2TDD.exe
+c:\users\hites\documents\visual studio 2017\Projects\Parcial2TDD\Parcial2TDD\obj\Debug\Parcial2TDD.pdb

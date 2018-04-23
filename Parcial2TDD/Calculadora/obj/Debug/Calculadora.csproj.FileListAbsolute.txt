@@ -1,0 +1,5 @@
+c:\users\hites\documents\visual studio 2017\Projects\Parcial2TDD\Calculadora\bin\Debug\Calculadora.dll
+c:\users\hites\documents\visual studio 2017\Projects\Parcial2TDD\Calculadora\bin\Debug\Calculadora.pdb
+c:\users\hites\documents\visual studio 2017\Projects\Parcial2TDD\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+c:\users\hites\documents\visual studio 2017\Projects\Parcial2TDD\Calculadora\obj\Debug\Calculadora.dll
+c:\users\hites\documents\visual studio 2017\Projects\Parcial2TDD\Calculadora\obj\Debug\Calculadora.pdb
